@@ -1,0 +1,26 @@
+.text-center{
+    text-align: center;
+}
+.bg-purple{
+background: purple;
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    justify-content: center;
+    align-items: center;
+}
+.row input{
+    margin: 5px;
+    padding:12px 42px;
+    border: 2px solid black;
+    border-radius: 5px;
+    /* padding:8px 40px; */
+}

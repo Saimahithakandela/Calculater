@@ -1,0 +1,16 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background: linear-gradient(to right, #4d4dce, #28ce65);
+}
+.button{
+    padding: 20px;
+    margin: 0 2px;
+    border: 2px solid black;
+    border-radius: 6px;
+    width:54px;
+   
+}
+.row{
+    margin: 6px 0px;
+}
